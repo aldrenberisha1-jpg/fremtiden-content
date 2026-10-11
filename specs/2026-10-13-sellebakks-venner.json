@@ -1,0 +1,30 @@
+{
+  "slug": "2026-10-13-sellebakks-venner",
+  "slides": [
+    {
+      "style": "dark",
+      "label": "NY NETTSIDE",
+      "title": "Sellebakks Venner har fått ny nettside.",
+      "sub": "Kinogaten 7 er nå på nett.",
+      "footer": "Sveip for å se hva den kan →"
+    },
+    {
+      "style": "light",
+      "label": "LEIE LOKALET",
+      "title": "Bookingkalender og betaling med Vipps.",
+      "sub": "Foreninger og privatpersoner kan leie huset selv."
+    },
+    {
+      "style": "dark",
+      "label": "OG MER",
+      "title": "Bli medlem, finn aktiviteter og les husets historie.",
+      "sub": "Et hus som har samlet Sellebakk i over 100 år."
+    },
+    {
+      "style": "light",
+      "label": "LAGET AV OSS",
+      "title": "Trenger din forening eller bedrift en nettside som fungerer?",
+      "footer": "Send oss en melding."
+    }
+  ]
+}
