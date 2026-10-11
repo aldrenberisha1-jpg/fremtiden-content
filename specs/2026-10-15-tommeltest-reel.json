@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-15-tommeltest-reel",
+  "scenes": [
+    { "style": "dark", "label": "TOMMELTESTEN", "title": "Kan kunden bruke nettsiden din med én tommel?", "sub": "Ta frem mobilen. Prøv selv.", "dur": 2.8 },
+    { "style": "light", "num": "1", "title": "Er knappen lett å treffe?", "dur": 2.4 },
+    { "style": "dark", "num": "2", "title": "Kan du lese teksten uten å zoome?", "dur": 2.4 },
+    { "style": "light", "num": "3", "title": "Finner du telefonnummeret på 5 sekunder?", "dur": 2.6 },
+    { "style": "dark", "label": "RESULTAT", "title": "Svarte du nei på noe? Da bør nettsiden fikses.", "footer": "Send oss en melding for en rask gjennomgang.", "dur": 3.4 }
+  ]
+}
