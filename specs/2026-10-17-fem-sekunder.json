@@ -1,0 +1,37 @@
+{
+  "slug": "2026-10-17-fem-sekunder",
+  "slides": [
+    {
+      "style": "dark",
+      "label": "NETTSIDE-TEST",
+      "title": "Forstår kunden deg på 5 sekunder?",
+      "sub": "Tre spørsmål. Svar uten å tenke.",
+      "footer": "Sveip for testen →"
+    },
+    {
+      "style": "light",
+      "num": "1",
+      "title": "Hva tilbyr du?",
+      "footer": "1 av 3"
+    },
+    {
+      "style": "dark",
+      "num": "2",
+      "title": "Hvem er det for?",
+      "footer": "2 av 3"
+    },
+    {
+      "style": "light",
+      "num": "3",
+      "title": "Hva skal de gjøre nå?",
+      "sub": "Ringe, booke eller kjøpe. Én ting.",
+      "footer": "3 av 3"
+    },
+    {
+      "style": "dark",
+      "label": "RESULTAT",
+      "title": "Klarte du ikke svare raskt? Da klarer ikke kunden det heller.",
+      "footer": "Vil du ha en rask gjennomgang? Send oss en melding."
+    }
+  ]
+}
