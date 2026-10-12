@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-20-foreningens-nettside",
+  "slides": [
+    { "style": "dark", "label": "FORENING", "title": "Foreningens nettside: dette må være på plass", "sub": "Tre ting. Sjekk din egen.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Hva dere gjør og for hvem.", "sub": "Så enkelt at en nabo forstår det på 5 sekunder." },
+    { "style": "dark", "num": "2", "title": "Hvordan man blir med.", "sub": "Medlemskap, påmelding eller bare å møte opp." },
+    { "style": "light", "num": "3", "title": "Hvordan man tar kontakt eller booker.", "sub": "Telefon, skjema eller kalender. Én tydelig vei." },
+    { "style": "dark", "label": "HAR DERE DET?", "title": "Mangler noe? Det kan vi fikse.", "footer": "Send oss en melding for en rask gjennomgang." }
+  ]
+}

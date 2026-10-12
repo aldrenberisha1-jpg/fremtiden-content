@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-24-domene-hosting-nettside",
+  "slides": [
+    { "style": "dark", "label": "FORKLART", "title": "Domene, hosting og nettside: hva er forskjellen?", "sub": "Det forvirrer mange.", "footer": "Sveip →" },
+    { "style": "light", "label": "DOMENE", "title": "Domenet er adressen.", "sub": "Det folk skriver for å finne deg." },
+    { "style": "dark", "label": "HOSTING", "title": "Hosting er huset adressen peker til.", "sub": "Der filene til nettsiden bor." },
+    { "style": "light", "label": "NETTSIDEN", "title": "Nettsiden er det som står inni.", "sub": "Tekst, bilder og knapper.", "footer": "Spørsmål om din? Send oss en melding." }
+  ]
+}

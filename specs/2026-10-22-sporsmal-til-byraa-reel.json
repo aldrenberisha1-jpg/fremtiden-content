@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-22-sporsmal-til-byraa-reel",
+  "scenes": [
+    { "style": "dark", "label": "FØR DU BESTILLER", "title": "3 spørsmål å stille før du bestiller ny nettside", "sub": "Til alle byråer. Også oss.", "dur": 3.0 },
+    { "style": "light", "num": "1", "title": "Hvem eier nettsiden når den er ferdig?", "dur": 2.6 },
+    { "style": "dark", "num": "2", "title": "Kan jeg selv endre tekst og bilder?", "dur": 2.6 },
+    { "style": "light", "num": "3", "title": "Hva koster det hvert år etter lansering?", "dur": 2.8 },
+    { "style": "dark", "label": "FÅ SVARENE FØR DU SKRIVER UNDER", "title": "Et godt byrå svarer rett ut.", "footer": "Spør oss. Vi svarer ærlig.", "dur": 3.4 }
+  ]
+}
