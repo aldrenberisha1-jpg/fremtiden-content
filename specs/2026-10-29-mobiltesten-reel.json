@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-29-mobiltesten-reel",
+  "scenes": [
+    { "style": "dark", "label": "MOBILTESTEN", "title": "Åpne nettsiden din på mobilen. Sjekk 3 ting.", "sub": "Det tar to minutter.", "dur": 3.2 },
+    { "style": "light", "num": "1", "title": "Kan du lese teksten uten å zoome?", "dur": 2.6 },
+    { "style": "dark", "num": "2", "title": "Er knappene lette å treffe med tommelen?", "dur": 2.8 },
+    { "style": "light", "num": "3", "title": "Finner du åpningstider og kontaktinfo raskt?", "dur": 2.8 },
+    { "style": "dark", "label": "FLERE NEI ENN JA?", "title": "Da mister du besøkende.", "footer": "Send oss en melding.", "dur": 3.4 }
+  ]
+}

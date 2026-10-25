@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-27-kontakt-fra-nettsiden",
+  "slides": [
+    { "style": "dark", "label": "TIPS", "title": "Slik gjør du det enkelt å ta kontakt", "sub": "4 ting vi sjekker på alle nettsider.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Kontaktinfo uten leting.", "sub": "Telefon og e-post bør synes uten å scrolle." },
+    { "style": "dark", "num": "2", "title": "Ett tydelig neste steg.", "sub": "Én knapp er bedre enn fem valg." },
+    { "style": "light", "num": "3", "title": "Telefonnummeret må kunne trykkes på.", "sub": "De fleste besøker deg fra mobilen." },
+    { "style": "dark", "num": "4", "title": "Svar raskt.", "sub": "Den som svarer først, får ofte jobben." },
+    { "style": "light", "label": "VIL DU HA HJELP?", "title": "Vi går gjennom nettsiden din sammen med deg.", "footer": "Send oss en melding." }
+  ]
+}

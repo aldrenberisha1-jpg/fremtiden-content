@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-31-skumle-nettsidefeil",
+  "slides": [
+    { "style": "dark", "label": "HALLOWEEN", "title": "4 skumle feil på nettsider", "sub": "Du har sett dem alle.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Gamle åpningstider.", "sub": "Kunden står utenfor en låst dør." },
+    { "style": "dark", "num": "2", "title": "Kontaktskjema som ingen svarer på.", "sub": "Test det selv i dag." },
+    { "style": "light", "num": "3", "title": "Tekst som ikke er endret på flere år.", "sub": "Besøkende tenker at dere har lagt ned." },
+    { "style": "dark", "num": "4", "title": "En side som er treg på mobil.", "sub": "Mange gir opp før den har lastet." },
+    { "style": "light", "label": "FIKS DET", "title": "Vi lager nettsider du kan oppdatere selv.", "footer": "Send oss en melding." }
+  ]
+}
