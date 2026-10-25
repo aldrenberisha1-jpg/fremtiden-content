@@ -8,3 +8,6 @@
 - 2026-10-20 18:00: Karusell «Foreningens nettside: dette må være på plass» (laget manuelt etter at søndagskjøringen 11. okt feilet på bruksgrense)
 - 2026-10-22 18:00: Reel «3 spørsmål før du bestiller ny nettside»
 - 2026-10-24 11:00: Karusell «Domene, hosting og nettside»
+- 2026-10-27 18:00: Karusell «Slik gjør du det enkelt å ta kontakt» (Metricool-id 405889352)
+- 2026-10-29 18:00: Reel «Mobiltesten» (Metricool-id 405889362)
+- 2026-10-31 11:00: Karusell «4 skumle feil på nettsider» (Metricool-id 405889382)
