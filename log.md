@@ -11,3 +11,6 @@
 - 2026-10-27 18:00: Karusell «Slik gjør du det enkelt å ta kontakt» (Metricool-id 405889352)
 - 2026-10-29 18:00: Reel «Mobiltesten» (Metricool-id 405889362)
 - 2026-10-31 11:00: Karusell «4 skumle feil på nettsider» (Metricool-id 405889382)
+- 2026-11-03 18:00: Karusell «Dette bør stå på forsiden» (Metricool-id 413171112)
+- 2026-11-05 18:00: Reel «Tekststesten» (Metricool-id 413171124)
+- 2026-11-07 11:00: Karusell «Bak kulissene: Aldren og Theodore» (Metricool-id 413171141)
