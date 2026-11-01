@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-03-forsiden",
+  "slides": [
+    { "style": "dark", "label": "TIPS", "title": "Dette bør stå på forsiden", "sub": "Besøkende bestemmer seg raskt.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Hvem dere er.", "sub": "Én setning som forklarer hva dere gjør." },
+    { "style": "dark", "num": "2", "title": "Hvor dere holder til.", "sub": "Lokale kunder leter etter nærhet." },
+    { "style": "light", "num": "3", "title": "Åpningstider og kontaktinfo.", "sub": "Oppdatert, og lett å finne." },
+    { "style": "dark", "num": "4", "title": "Ett tydelig neste steg.", "sub": "Ring, book eller send melding." },
+    { "style": "light", "label": "VIL DU HA HJELP?", "title": "Vi ser gjennom forsiden din sammen med deg.", "footer": "Send oss en melding." }
+  ]
+}

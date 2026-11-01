@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-07-bak-kulissene",
+  "slides": [
+    { "style": "dark", "label": "BAK KULISSENE", "title": "Hvem lager nettsiden din?", "sub": "Møt Aldren og Theodore.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Vi er fra Østfold.", "sub": "Vi bygger for folk i nærheten." },
+    { "style": "dark", "num": "2", "title": "Vi er et lite team.", "sub": "Du snakker direkte med oss." },
+    { "style": "light", "num": "3", "title": "Vi lager nettsider som blir brukt.", "sub": "For foreninger og lokale bedrifter." },
+    { "style": "dark", "label": "OMTALT", "title": "Omtalt i Fredriksstad Blad og Sarpsborg Arbeiderblad.", "sub": "Fredrikstad kommune er kunde." },
+    { "style": "light", "label": "SNAKK MED OSS", "title": "Noen du kan ringe.", "footer": "Send oss en melding." }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-05-tekst-reel",
+  "scenes": [
+    { "style": "dark", "label": "TEKSTTESTEN", "title": "Les forsiden din som en ny besøkende.", "sub": "Tre spørsmål. Ett minutt.", "dur": 3.2 },
+    { "style": "light", "num": "1", "title": "Forstår du hva dere tilbyr?", "dur": 2.6 },
+    { "style": "dark", "num": "2", "title": "Vet du hva du skal gjøre videre?", "dur": 2.8 },
+    { "style": "light", "num": "3", "title": "Stemmer alt fortsatt?", "dur": 2.6 },
+    { "style": "dark", "label": "TVILER DU PÅ ET SVAR?", "title": "Da bør teksten skrives om.", "footer": "Send oss en melding.", "dur": 3.4 }
+  ]
+}
