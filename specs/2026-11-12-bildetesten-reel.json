@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-12-bildetesten-reel",
+  "scenes": [
+    { "style": "dark", "label": "BILDETESTEN", "title": "Se på bildene på nettsiden din.", "sub": "Tre spørsmål. Ett minutt.", "dur": 3.2 },
+    { "style": "light", "num": "1", "title": "Er de dine egne?", "dur": 2.6 },
+    { "style": "dark", "num": "2", "title": "Er de skarpe på mobil?", "dur": 2.8 },
+    { "style": "light", "num": "3", "title": "Viser de det dere faktisk gjør?", "dur": 2.8 },
+    { "style": "dark", "label": "TVILER DU PÅ ET SVAR?", "title": "Da er det på tide med nye bilder.", "footer": "Send oss en melding.", "dur": 3.4 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-om-oss-side",
+  "slides": [
+    { "style": "dark", "label": "TIPS", "title": "Slik skriver du en god Om oss-side", "sub": "Folk vil vite hvem de handler med.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Start med hva dere gjør.", "sub": "Ikke med historien om bedriften." },
+    { "style": "dark", "num": "2", "title": "Vis hvem som står bak.", "sub": "Navn og et bilde skaper tillit." },
+    { "style": "light", "num": "3", "title": "Fortell hvor dere holder til.", "sub": "Lokal tilhørighet teller." },
+    { "style": "dark", "num": "4", "title": "Avslutt med neste steg.", "sub": "Ring, book eller send melding." },
+    { "style": "light", "label": "VIL DU HA HJELP?", "title": "Vi leser gjennom Om oss-siden din sammen med deg.", "footer": "Send oss en melding." }
+  ]
+}

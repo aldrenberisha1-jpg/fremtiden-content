@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-14-sellebakks-venner-booking",
+  "slides": [
+    { "style": "dark", "label": "CASE", "title": "Booking og Vipps på samme nettside", "sub": "Sellebakks Venner, Kinogaten 7.", "footer": "Sveip →" },
+    { "style": "light", "num": "1", "title": "Forsamlingshus på Sellebakk.", "sub": "Drevet av Sellebakks Venner sammen med Fredrikstad kommune og frivillige." },
+    { "style": "dark", "num": "2", "title": "Bookingkalender på siden.", "sub": "Du ser selv hva som er ledig." },
+    { "style": "light", "num": "3", "title": "Betaling med Vipps.", "sub": "For utleie, medlemskap og aktiviteter." },
+    { "style": "dark", "label": "LANSERT 10. OKTOBER", "title": "sellebakksvenner.no", "sub": "Laget av Fremtiden Digitalt." },
+    { "style": "light", "label": "HAR DU EN FORENING?", "title": "Vi lager nettsiden sammen med dere.", "footer": "Send oss en melding." }
+  ]
+}
