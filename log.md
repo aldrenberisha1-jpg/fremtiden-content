@@ -14,3 +14,6 @@
 - 2026-11-03 18:00: Karusell «Dette bør stå på forsiden» (Metricool-id 413171112)
 - 2026-11-05 18:00: Reel «Tekststesten» (Metricool-id 413171124)
 - 2026-11-07 11:00: Karusell «Bak kulissene: Aldren og Theodore» (Metricool-id 413171141)
+- 2026-11-10 18:00: Karusell «Slik skriver du en god Om oss-side» (Metricool-id 420989265)
+- 2026-11-12 18:00: Reel «Bildetesten» (Metricool-id 420989278)
+- 2026-11-14 11:00: Karusell-case «Booking og Vipps på samme nettside», Sellebakks Venner (Metricool-id 420989284)
